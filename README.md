@@ -13,7 +13,7 @@ Task assigned to me by ACM.
 # Task Discription:
 Create a webpage to manage daily finances and keeping a balance of everyday income and expense. User is lead to the home page which describes the project and then is asked to login in. If authorized user, then will lead to the main project page where user can add income and expense to check their balance.
 
-# To preview my last
+# To preview my task
 <img src="https://thumbs.gfycat.com/AdmiredConsciousGardensnake.webp" width=150px >
 
 
